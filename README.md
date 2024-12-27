@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on Mobile app projects.<br>💬 Ask me about Flutter, state management, bloc, GetX, SQLite integration, and general mobile app development tips and creating a structured Laravel backend for apps with different user types and complex relationships.
+👯 I’m looking to collaborate on web and mobile app projects.<br>💬 Ask me about Flutter, state management, bloc, GetX, SQLite integration, and general mobile app development tips and creating a structured Laravel backend for apps with different user types and complex relationships.
 
 
 ## 🌐 Socials:
