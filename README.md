@@ -1,6 +1,13 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on mobile and web app projects.<br>💬 Ask me about flutter, state management, database integration, and general mobile app development tips. I also specialize in creating structured laravel backends for apps with different user types and complex relationships. Additionally, I work with React, Next.js, and TypeScript for dynamic and modern web applications.
+I’m looking to collaborate on mobile and web app projects.
+💬 Ask me about:
+Flutter (state management, database integration, and general mobile app development)
+Laravel (structuring backends for multi-user applications with complex relationships)
+React & Next.js (building dynamic, modern web applications using TypeScript)
+Full-Stack Development (integrating APIs, authentication, and scalable architectures)
+Let's build something amazing together! 🔥
 
+🚀 Currently working on: [Event Ticketing App](https://github.com/Eshetu21/event-ticketing-app)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eshetu-tesema)
