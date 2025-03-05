@@ -1,5 +1,5 @@
 ## 💫 About Me:
-I'm a passionate developer specializing in both mobile and web applications. With expertise in Flutter, Laravel, React, and Next.js, I build scalable and high-performance applications that provide seamless user experiences. Whether it's crafting a structured backend, implementing state management, or developing a modern web interface, I thrive on turning ideas into reality.<br>
+I'm a passionate developer specializing in both mobile and web applications. With expertise in Flutter, Laravel, and React, I build scalable and high-performance applications that provide seamless user experiences. Whether it's crafting a structured backend, implementing state management, or developing a modern web interface, I thrive on turning ideas into reality.<br>
 
 ## 💬 Ask me about:<br>
 Flutter (state management, database integration, and general mobile app development)<br>
