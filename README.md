@@ -8,7 +8,7 @@ React & Next.js (building dynamic, modern web applications using TypeScript)<br>
 Full-Stack Development (integrating APIs, authentication, and scalable architectures)<br>
 Let's build something amazing together! 🔥<br>
 
-🚀 Currently working on: [Event Ticketing App](https://github.com/Eshetu21/event-ticketing-app)<br>
+🚀 Currently working on [Event Ticketing App](https://github.com/Eshetu21/event-ticketing-app)<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eshetu-tesema)
