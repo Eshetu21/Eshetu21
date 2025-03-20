@@ -1,11 +1,11 @@
 ## 💫 About Me:
-I'm a passionate developer specializing in both mobile and web applications. With expertise in Flutter, Laravel, and React, I build scalable and high-performance applications that provide seamless user experiences. Whether it's crafting a structured backend, implementing state management, or developing a modern web interface, I thrive on turning ideas into reality.<br>
+I'm a passionate developer specializing in both mobile and web applications. With expertise in Flutter, I build scalable and high-performance applications that provide seamless user experiences.<br>
 
 ## 💬 Ask me about:<br>
-Flutter (state management, database integration, and general mobile app development)<br>
-Laravel (structuring backends for multi-user applications with complex relationships)<br>
-React & Next.js (building dynamic, modern web applications using TypeScript)<br>
-Full-Stack Development (integrating APIs, authentication, and scalable architectures)<br>
+Flutter (State management, DB integration)<br>
+Laravel (Multi-user backend, API structuring)<br>
+React & Next.js (Modern, dynamic web apps)<br>
+Full-Stack Dev (APIs, authentication, scalability)<br>
 Let's build something amazing together! 🔥<br>
 
 🚀 Currently working on [Event Ticketing App](https://github.com/Eshetu21/event-ticketing-app)<br>
