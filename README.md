@@ -1,5 +1,5 @@
 ## 💫 About Me:
-I'm a passionate developer specializing in both mobile and web applications. With expertise in Flutter, I build scalable and high-performance applications that provide seamless user experiences.<br>
+I'm a passionate developer specializing in both mobile and web applications. With expertise in Flutter, I build scalable and high-performance mobile applications that provide seamless user experiences.<br>
 
 ## 💬 Ask me about:<br>
 Flutter (State management, DB integration)<br>
