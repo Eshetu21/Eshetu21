@@ -8,8 +8,6 @@ React & Next.js (Modern, dynamic web apps)<br>
 Full-Stack Dev (APIs, authentication, scalability)<br>
 Let's build something amazing together! 🔥<br>
 
-🚀 Currently working on [Event Ticketing App](https://github.com/Eshetu21/event-ticketing-app)<br>
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eshetu-tesema)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eshetutesema2@gmail.com)
